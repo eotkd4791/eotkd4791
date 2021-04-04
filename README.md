@@ -16,7 +16,7 @@
 
 <div align=center>
 
-`Tech` 
+### Tech
 
 <br />
 
@@ -37,7 +37,7 @@
 
 <div align=center>
 
-`Contact Me` 
+### Contact Me
 
 <br />
 
