@@ -1,6 +1,8 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?&color=F5DF4D&fontColor=00000&type=rect&text=Stephen&animation=twinkling)
 
-<div align=center>
+<br />
 
 ### Daesang You, Frontend Developer
 
