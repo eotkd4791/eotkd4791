@@ -1,10 +1,3 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?&color=8C4A3C&fontColor=F7F3ED&type=rect&text=Stephen&animation=twinkling)
-
-</div>
-
-
 
 <div align=center>
 
